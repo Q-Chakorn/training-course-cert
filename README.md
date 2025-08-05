@@ -13,3 +13,9 @@
 ![aws](image/Course-starting-devops-aws.png)
 
 ![aws](image/Course-basic-cli-aws.png)
+
+![aws](image/Code-of-Conduct.png)
+
+![aws](image/การป้องกันการฟอกเงิน.png)
+
+![aws](image/cybersec-risk-aware.png)
