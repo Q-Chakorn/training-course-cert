@@ -20,4 +20,4 @@
 
 ![aws](image/cybersec-risk-aware.png)
 
-![log](image/monitor-logs.png.png)
+![log](image/monitor-logs.png)
