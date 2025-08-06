@@ -19,3 +19,5 @@
 ![aws](image/การป้องกันการฟอกเงิน.png)
 
 ![aws](image/cybersec-risk-aware.png)
+
+![log](image/monitor-logs.png.png)
